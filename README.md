@@ -11,7 +11,6 @@ Lyrify é uma plataforma que permite aos usuários explorar vídeos musicais ver
 - Interface simples e moderna.
 - Capacidade de baixar vídeos para compartilhar nas redes sociais.
 - Responsivo e otimizado para dispositivos móveis.
-- Edição de vídeos através de um simples editor visual (caso esteja integrado).
 
 ## Tecnologias Usadas
 
